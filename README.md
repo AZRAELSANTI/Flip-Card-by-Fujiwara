@@ -1,10 +1,4 @@
 # Flip Card
 Date : 23/05/2024
 
-Front Side
-
-![image](https://github.com/AZRAELSANTI/Flip-Card-by-Fujiwara/assets/83638372/070ffab9-79e5-4c08-b23a-f3574940004f)
-
-Back Side
-
-![image](https://github.com/AZRAELSANTI/Flip-Card-by-Fujiwara/assets/83638372/390d8ff6-9032-45f0-b5ca-7b6433e7ec46)
+https://github.com/AZRAELSANTI/MVVMDashboard/assets/83638372/1ae82ca9-a4cf-43ce-adf5-ff7b851b22bf
